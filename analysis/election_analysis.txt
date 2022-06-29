@@ -13,11 +13,11 @@ Largest County Turnout: Denver
 Denver County's Vote Total: 306,055
 Denver County's Voting Percentage: 82.8%
 -------------------------
-Charles Casper Stockham: 6.7% (85,213)
-Diana DeGette: 6.7% (272,892)
-Raymon Anthony Doane: 6.7% (11,606)
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
 -------------------------
-Winner: Charles Casper Stockham
-Winning Vote Count: 85,213
-Winning Percentage: 6.7%
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
 -------------------------
