@@ -3,7 +3,7 @@
 Our purpose in this election was to determine the winner and summary of the election. The twist was, we received a large amount of data. The data came in a .csv file. After having opened it, you could see that the data was tremendously long. That could be intimidating but luckily we have just the code to deal with this. So I set out to find the winner of the election. As well as some other important statistical information such as the percentage of votes and largest county turnouts.
 ## Election_Audit Results
 - There were 369,711 total votes cast.
-Total Votes
+![Total](https://github.com/Aceofhearts1/Election_Analysis/blob/c81ba3e8f274033b71b06a2d03f817c2c40c8675/Resources/Total_Votes.png)
 ### County Votes:
 - Jefferson: 10.5% (38,855)
 - Denver: 82.8% (306,055)
@@ -17,5 +17,6 @@ Candidate Results
 - Winner: Diana DeGette
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
+![TotalCodeAndOutput](https://github.com/Aceofhearts1/Election_Analysis/blob/c81ba3e8f274033b71b06a2d03f817c2c40c8675/Resources/Code_AND_Output.png)
 ## Election-Audit Summary
 So as you can see, our script was able to take a lot of trouble off of the hands of regular people. Imagine if someone had to go through all of that data themselves. Our script makes this an easy process. The best part is, the variables and open lists and dictionaries we used, allows us to use this script for more elections. As long as the format of the .csv file doesn't change, we can handle more elections. With modifications we could potentially use this program even with different .csv file formats. We could write our loops and condtionals to check the headers and find if it is the row we're are looking for instead of assuming the county will be in column 2 or the candidates will be in column 3. To speed up the process, we could eventually use modules such as pandas but lets not get ahead of ourselves. Also, it would be more manageable and easier on the eyes if we changed our script to use a dictionary of lists instead of a list of dictionaries.
